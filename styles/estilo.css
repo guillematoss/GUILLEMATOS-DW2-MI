@@ -1,0 +1,80 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: rgb(255, 246, 122);
+    border:2px solid rgb(255, 204, 0);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+.primeracaja{
+    margin-left: 1500px;
+    background-color: rgb(255, 204, 0);
+    margin-right:5px ;
+    padding: 5px;
+    display: inline-block;
+}
+.cajas{
+    background-color: rgb(255, 204, 0);
+    margin-right:5px ;
+    padding: 5px;
+    display: inline-block;
+}
+
+nav ul div li{
+    display: inline-block
+}
+.caja1{
+    border:3px solid rgb(255, 101, 93) ;
+    height:200px ;
+    width: 60% ;
+    background-color: rgb(255, 140, 134);;
+    text-align: center;
+    margin-left: 265px;
+}
+.caja1 p{
+    font-size: larger;
+    font-style: italic;
+    position: relative;
+}
+
+.caja2{
+    border: 3px solid rgb(132, 132, 132);
+    height: 200px;
+    width: 100%;
+    background-color: rgb(132, 132, 132);
+    margin-top: 50px ;
+}
+.caja{
+    display: inline-block;
+    height: 150px;
+    width: 100px;
+    margin: 20px;
+    font-size: 15px;
+    padding-left: 30px;
+padding-right: 30px;
+    }
+    
+.direccion{
+display: inline-block;
+
+}
+footer div ul li{
+    display: inline-block;
+}
+footer{
+    background-color: rgb(255, 102, 47);
+}
+footer div p{
+    padding-left: 1600px;
+}
